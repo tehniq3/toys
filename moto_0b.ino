@@ -5,7 +5,7 @@
  * https://nicuflorica.blogspot.com/
  * http://arduinotehniq.blogspot.com/
  * https://www.arduinotehniq.com/
- * ver.0.b - brake & 1 flash on turn left +right
+ * ver.0.b - brake & one flash on turn left +right
  * 
  */
 
